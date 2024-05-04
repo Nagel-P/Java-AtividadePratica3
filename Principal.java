@@ -36,3 +36,20 @@ public class Principal {
             }
         }
     }
+
+    private static void addFunc(ArrayList<Funcionario> funcionarios) {
+
+    }
+
+    private static void removeFunc(ArrayList<Funcionario> funcionarios) {
+        
+    }
+
+    private static void exibirFunc(ArrayList<Funcionario> funcionarios) {
+        
+    }
+
+    private static void buscarFunc(ArrayList<Funcionario> funcionarios) {
+        
+        }
+    }
