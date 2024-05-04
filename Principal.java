@@ -17,16 +17,16 @@ public class Principal {
 
             switch (opcao) {
                 case 1:
-                    adicionarFuncionario(funcionarios);
+                    addFunc(funcionarios);
                     break;
                 case 2:
-                    removerFuncionario(funcionarios);
+                    removeFunc(funcionarios);
                     break;
                 case 3:
-                    exibirFuncionarios(funcionarios);
+                    exibirFunc(funcionarios);
                     break;
                 case 4:
-                    buscarFuncionario(funcionarios);
+                    buscarFunc(funcionarios);
                     break;
                 case 5:
                     System.out.println("Saindo do programa...");
